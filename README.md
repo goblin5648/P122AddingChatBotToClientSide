@@ -1,1 +1,1 @@
-# P122AddingChatBotToClientSide
+# PRO-C122-Project-Boilerplate
